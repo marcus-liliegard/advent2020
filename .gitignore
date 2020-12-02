@@ -1,1 +1,7 @@
 /venv/
+/.idea/modules.xml
+/.idea/.gitignore
+/.idea/advent2020.iml
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
