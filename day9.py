@@ -1,7 +1,7 @@
 from day9_data import data
 
 preamble_size = 25
-xmas_code = [int(d) for d in data.split('\n')]
+xmas_code = list(map(int, data.split('\n')))
 
 
 # part one
